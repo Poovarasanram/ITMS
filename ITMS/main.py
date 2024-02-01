@@ -6,9 +6,7 @@ import tkinter
 import customtkinter as ctk
 import color as cs
 import database as db
-
 import pymysql as py
-
 from datetime import datetime
 
 
