@@ -11,10 +11,10 @@ from datetime import datetime
 
 
 # database conctivity
-host_1=db.host_1
-user_1=db.user_1
-password_1=db.password_1
-database_1=db.database_1
+host_1=db.host
+user_1=db.user
+password_1=db.password
+database_1=db.database
 
 
 #colors
